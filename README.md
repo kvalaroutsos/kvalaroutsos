@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvalaroutsos I am a Mecanical Engineer with interest in Statistics and data analysis.
 - 👀 I’m interested in data analysis and machine learning. 
-- 🌱 I’m currently learning python and the neccesary libraries for data analysis.
-- 💞️ I’m looking fro a job offer in this field.
+- 🌱 I’m currently learning python and the neccesary libraries for data analysis,and machin  learning.
+- 💞️ I’m looking for a job offer in this field.
 - 📫 How to reach me via my LinkedIn profle Kiparissis Valaroutsos
 
 <!---
