@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvalaroutsos I am a Mecanical Engineer with interest in Statistics and data analysis.
+- 👋 Hi, I’m @kvalaroutsos I am a Mechanical Engineer with interest in Statistics and data analysis.
 - 👀 I’m interested in data analysis and machine learning. 
 - 🌱 I’m currently learning python and the neccesary libraries for data analysis,and machine learning.
 - 💞️ I’m looking for a job offer in this field.
